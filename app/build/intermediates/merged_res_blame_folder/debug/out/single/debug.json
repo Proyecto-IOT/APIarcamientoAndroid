@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_loading.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_mis_vehicles.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_mis_vehicles.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_mis_datos.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_mis_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_sorryyyy.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\sorryyyy.json"
+    },
+    {
+        "merged": "com.example.apiarcamento.app-merged_res-52:/layout_fragment_home.xml.flat",
+        "source": "com.example.apiarcamento.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_avatartest.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\avatartest.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_homanim3.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\homanim3.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_registro_incidentes.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_registro_incidentes.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\menu_bottom_navmenu.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\menu\\bottom_navmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_arc_3.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\arc_3.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_estacionamiento.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_estacionamiento.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_errorauth.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\errorauth.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_add_vehicle.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_add_vehicle.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_add.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_view.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\view.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_car.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_warning.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_account.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\font_osval.ttf.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\font\\osval.ttf"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_homedeco_1.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\homedeco_1.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_abrir.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\abrir.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_homedeco.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\homedeco.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_fragment_reg.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_fragment_fragment.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_ic_reg.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\ic_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_incidentesitem.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\incidentesitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_warning2.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\warning2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_itemregi.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\itemregi.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_estacioonarme.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_estacioonarme.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_op3.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\op3.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_cerrar.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_view2.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_car_edit_icon.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\car_edit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_exit_icon.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\exit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_recshape.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\recshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_homeanimation1.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\homeanimation1.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_fragment_ocupado.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_ocupado.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_op2.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\op2.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_inforect.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\inforect.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_asset.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\asset.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_icono.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\icono.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_parking_area.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\parking_area.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_sart.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_sart.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_start.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\start.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_imgp3.png.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\imgp3.png"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\layout_activity_error_auth.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_error_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_op1.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\op1.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\raw_homeanim2.json.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\raw\\homeanim2.json"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-merged_res-52:\\drawable_edit_data.xml.flat",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\drawable\\edit_data.xml"
+    }
+]

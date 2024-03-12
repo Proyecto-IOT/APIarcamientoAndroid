@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\view2.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\view2.xml"
+    },
+    {
+        "merged": "com.example.apiarcamento.app-mergeDebugResources-51:/layout/fragment_home.xml",
+        "source": "com.example.apiarcamento.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\itemregi.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\itemregi.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_error_auth.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_error_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\view.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\view.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_mis_datos.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_mis_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_mis_vehicles.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_mis_vehicles.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\incidentesitem.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\incidentesitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_estacioonarme.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_estacioonarme.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_registro_incidentes.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_registro_incidentes.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\fragment_fragment.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_estacionamiento.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_estacionamiento.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\fragment_reg.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_add_vehicle.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_add_vehicle.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\activity_sart.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\activity_sart.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-mergeDebugResources-51:\\layout\\fragment_ocupado.xml",
+        "source": "C:\\Users\\MinLy\\.gradle\\daemon\\8.0\\com.example.apiarcamento.app-main-54:\\layout\\fragment_ocupado.xml"
+    }
+]
